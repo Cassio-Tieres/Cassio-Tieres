@@ -8,6 +8,5 @@ I am interested in game development, software development, mobile and data scien
 - 🔭 I’m currently working on Freelancer
 - 🌱 I’m currently learning Asp .NET
 - 👯 I’m looking to collaborate on .NET / Unity projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Engine
 - 📫 You find me on my [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-tieres-bomfim-99573a179/) 
