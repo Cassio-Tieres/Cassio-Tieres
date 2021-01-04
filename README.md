@@ -1,8 +1,8 @@
 ### Hi dude, my name is Cássio Tieres 👋
 
 
-I am a student about to become a .NET Full Stack developer.
-I am interested in game development, software development, mobile and data science. I am very communicative and make friends easily, I also work very well in a team and I am always willing to learn more and more.
+My name is Cássio, I'm a student and systems developer, studying to become full in .Net Core and I'm a python developer.
+I have experience in creating games and developing software with C # and Python. I also develop graphics in Data Science analysis in python.
 
 ### A little more about me:
 - 🔭 I’m currently working on Freelancer
