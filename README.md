@@ -6,13 +6,13 @@ I'm currently studying Web Development at Udemy, from basic to advanced, with a 
 
 ## Technologies I am working and studying:
 
-* 👨‍💻 C#
+<!--* 👨‍💻 C#
 * 👨‍⚕️ Python
 * 💻 HTML
 * 🕸️ CSS
 * 🤖 JavaScript
 * 🧟 PHP
-* 🚣 And others..
+* 🚣 And others.. -->
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-red?logo=github)
