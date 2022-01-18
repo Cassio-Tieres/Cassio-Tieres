@@ -5,7 +5,7 @@ Meu nome é Cássio, sou desenvolvedor Full-Stack JR. Estou estudando e me desen
 
 ## Tecnologias que eu trabalho e estudo:
 
-<!--* 👨‍💻 C#
+* 👨‍💻 C#
 * 💻 HTML
 * 🕸️ CSS
 * 🤖 JavaScript
