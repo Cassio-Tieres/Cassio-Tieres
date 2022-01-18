@@ -1,31 +1,21 @@
-### Hi, my name is Cássio Tieres 🕷️
+### Olá 🕷️
 
 
-Hi, my name Cassio, I've been a developer for just over 1 year. I am self-taught, but I intend to enter the Information Systems faculty.
-I'm currently studying Web Development at Udemy, from basic to advanced, with a grid that goes from HTML and CSS, to PHP, Bootstrap, MySQL, JavaScript, and IONIC. I've also been studying Python for a long time, which was my first language. 
+Meu nome é Cássio, sou desenvolvedor Full-Stack JR. Estou estudando e me desenvolvendo como programador desde 2019 quando iniciei um curso de desenvolvimento web full-stack na Udemy, desde então me apeguei e decidi o que queria fazer, conheci outras tecnologias das quais hoje são as minhas principais e mais utilizadas, como a plataforma .NET Core, da qual trabalho. Também trabalho com Angular na parte do front-end e em aplicações mobile utilizando o framework IONIC.
 
-## Technologies I am working and studying:
+## Tecnologias que eu trabalho e estudo:
 
 <!--* 👨‍💻 C#
-* 👨‍⚕️ Python
 * 💻 HTML
 * 🕸️ CSS
 * 🤖 JavaScript
-* 🧟 PHP
-* 🚣 And others.. -->
-
+* 👽 Angular
+* 💾 MySQL 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-red?logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
 ![C#](https://img.shields.io/badge/-CSharp-purple?logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-darkblue?logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript)
-![Django](https://img.shields.io/badge/-Django-green?logo=Django)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=MySQL)
-![PHP](https://img.shields.io/badge/-PHP-lilic?logo=Php)
-![Pycharm](https://img.shields.io/badge/-PyCharm-orange?logo=Pycharm)
 ![HTML](https://img.shields.io/badge/-HTML-grey?logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-greenpool?logo=css)
-
-## Meet me 📱:
-![Instagram Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%A1ssio-tieres-bomfim-99573a179/)
