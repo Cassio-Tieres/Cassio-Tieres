@@ -5,7 +5,8 @@ Meu nome é Cássio, sou desenvolvedor Full-Stack JR. Estou estudando e me desen
 
 ## Tecnologias que eu trabalho e estudo:
 
-* 👨‍💻 C#
+* 👨‍ PHP
+* 💻 C#
 * 💻 HTML
 * 🕸️ CSS
 * 🤖 JavaScript
@@ -14,6 +15,7 @@ Meu nome é Cássio, sou desenvolvedor Full-Stack JR. Estou estudando e me desen
 
 ![GitHub](https://img.shields.io/badge/-GitHub-red?logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-PHP-purple?logo=php)
 ![C#](https://img.shields.io/badge/-CSharp-purple?logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=MySQL)
