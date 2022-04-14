@@ -1,7 +1,7 @@
 ### Olá 🕷️
 
 
-Meu nome é Cássio, sou desenvolvedor frontend na Alfama Web. Estou estudando e me desenvolvendo como programador desde 2019 quando iniciei um curso de desenvolvimento web full-stack na Udemy, desde então me apeguei e decidi o que queria fazer. Conheci várias tecnologias tanto de front quanto de backend. Hoje sou estudante muito ativo de python e também sou apaixonado por javascript. Estou estudando também Machine Learning a fim de construir projetos que agreguem valor e contribuam para a sociedade em geral.
+Meu nome é Cássio, sou desenvolvedor frontend na Alfama Web. Estou estudando e me desenvolvendo como programador desde 2019 quando iniciei um curso de desenvolvimento web full-stack na Udemy, desde então me apeguei e decidi o que queria fazer. Conheci várias tecnologias tanto de front quanto de backend. Hoje eu sou um estudante muito ativo no front-end, estudando as principais tecnologias do mercado como React.Js, Vue.js e Angular.
 
 ## Tecnologias que eu trabalho e estudo:
 
