@@ -5,13 +5,6 @@ Meu nome é Cássio, sou desenvolvedor frontend na Alfama Web. Estou estudando e
 
 ## Tecnologias que eu trabalho e estudo:
 
-* 👨‍ PHP
-* 💻 C#
-* 💻 HTML
-* 🕸️ CSS
-* 🤖 JavaScript
-* 👽 TypeScript
-* 💾 MySQL 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-red?logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
