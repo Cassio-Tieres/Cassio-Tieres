@@ -11,8 +11,6 @@ Front-end: -> ReactJs -> JavaScript -> HTML & CSS -> Bootstrap
 
 Back-end: -> PHP -> C# -> NodeJS -> MySQL
 
-Data Analyst / Science: -> Python -> SQL -> Pandas -> NumPy -> Excel -> Noções de Machine Learning
-
 ## Tecnologias que eu trabalho e estudo:
 
 
