@@ -1,8 +1,6 @@
 ### Olá 🕷️
 
-
-Olá, meu nome é Cássio e eu sou programador e estudante de data science. Atualmente trabalho com desenvolvimento front-end na Alfama Web, mas aos poucos estou migrando para Ciências de Dados através de muito estudo e dedicação.
-
+Olá, meu nome é Cássio e eu sou programador. Atualmente trabalho com desenvolvimento fullstack na Alfama Web.
 Eu sou estudante autodidata desde 2019, quando comecei a estudar através de cursos indicados por conhecidos meus que já atuavam na área e desde então não parei de estudar.
 
 Minhas principais habilidades em tecnologia são:
