@@ -5,6 +5,7 @@ Eu sou estudante autodidata desde 2019, quando comecei a estudar através de cur
 
 Minhas principais habilidades em tecnologia são:
 
+-> Desenvolvimento de sites/landing pages com WordPress
 
 Front-end: -> ReactJs -> JavaScript -> HTML & CSS -> Bootstrap
 
