@@ -1,15 +1,25 @@
 ### Olá 🕷️
 
-Olá, meu nome é Cássio e eu sou programador e desenvolvedor front-end. Atualmente trabalho com desenvolvimento fullstack na Alfama Web.
-Eu sou estudante autodidata desde 2019, quando comecei a estudar através de cursos indicados por conhecidos meus que já atuavam na área e desde então não parei de estudar. Hoje estou cursando Análise e Desenvolvimento de sistemas pela Unopar.
+Olá, meu nome é Cássio e eu sou programador. Atualmente trabalho com desenvolvimento fullstack na Alfama Web. Eu sou estudante de Análise e Desenvolvimento de Sistemas pela Unopar, mas comecei a estudar algoritmos e desenvolvimento de sistemas antes mesmo de começar a faculdade quando eu tinha 18 anos, através de cursos online e indicações de amigos. 
 
-Minhas principais habilidades em tecnologia são:
+Tenho experiência com:
 
--> Desenvolvimento de sites/landing pages com WordPress
+* Documentação de sistemas 
+* Modelagem de Sistemas com UML
+* Desenvolvimento Frontend: React, Material UI, Sass, Bootstrap, JavaScript, TypeScript, JQuery, HTML e CSS
+* Desenvolvimento Backend: API Rest, NodeJs, Express, Java, Spring Boot, ASP.Net Core, MySQL
 
-Front-end: -> ReactJs -> JavaScript -> HTML & CSS -> Bootstrap
+Tenho conhecimento em:
 
-Back-end: -> PHP -> C# -> NodeJS -> MySQL
+* Metodologias Ágeis (Scrum e XP)
+* Programação Orientada a Testes (TDD)
+* Programação Orientada a Objetos (POO)
+* Análise e Modelagem de Sistemas e de Banco de Dados
+
+O que estou estudando no momento:
+* Docker
+* Reactjs
+* Spring Boot
 
 ## Tecnologias que eu trabalho e estudo:
 
