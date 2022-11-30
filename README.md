@@ -6,7 +6,7 @@ Tenho experiência com:
 
 * Documentação de sistemas 
 * Modelagem de Sistemas com UML
-* Desenvolvimento Frontend: React, Material UI, Sass, Bootstrap, JavaScript, TypeScript, JQuery, HTML e CSS
+* Desenvolvimento Frontend: Angular, Angular Material, React, Material UI, Sass, Bootstrap, JavaScript, TypeScript, JQuery, HTML e CSS
 * Desenvolvimento Backend: API Rest, NodeJs, Express, Java, Spring Boot, ASP.Net Core, MySQL
 
 Tenho conhecimento em:
