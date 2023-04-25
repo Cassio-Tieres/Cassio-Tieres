@@ -1,7 +1,14 @@
 ### Olá 🕷️
 
-Olá, meu nome é Cássio e eu sou programador e estudante de Ciências de Dados e Big Data. Atualmente trabalho com desenvolvimento fullstack na Alfama Web. Faço graduação em Análise e Desenvolvimento de Sistemas na UNOPAR e também estudo áreas relacionadas a dados.
+Olá, meu nome é Cássio e eu sou desenvolvedor e engenheiro de software Jr. Atualmente trabalho com desenvolvimento fullstack na Alfama Web. Faço graduação em Análise e Desenvolvimento de Sistemas na UNOPAR e venho aprimorando meus conhecimentos na área de Software desde 2019. Também faço pesquisa no PICT/EAD da Kroton sobre o tema A formação do aluno de graduação no sistema de ensino EaD, orientado pelos Prof. Dr Diego Fogaça e pela Profa. Dra. Fátima Dias.
 
-Atualmente, meu principal objetivo vem sendo migrar para a área de dados. Estou em diversos cursos ligados a área, desde análise de dados com python, que faço na própria Universidade, até Engenharia de Dados, proporcionada pela Escola Livre de Inteligência Artificial. Também estou finalizando o curso Formação Cientista de Dados ministrado pelo Prof. Fernando Amaral na plataforma de cursos Udemy.
+Tenho muito conhecimento (consolidado ainda mais na faculdade) em:
+* Metodologias Ágeis
+* Modelagem de Sistemas
+* Modelagem de bancos de dados relacionais
+* Desenvolvimento de Software em C/C++, Python, C#, Java e PHP
+* Desenvolvimento Web Backend com ASP.net Core, NodeJs / Express, MySQL, SQL Server, desenvolvimento e consumo de APIs.
+* Desenvolvimento Frontend com VueJs, ReactJs, HTML, CSS, JavaScript, JQuery e Bootstrap
 
-Atualmente, venho me empenhando bastante nas áreas de Inteligência Artificial, Machine Learning, Deep Learning, Big Data e análise de dados utilizando libs baseados em Python como tensorflow, numpy, keras e outras.
+Estou estudando no momento:
+* Docker
