@@ -1,14 +1,17 @@
 ### Olá 🕷️
 
-Olá, meu nome é Cássio e eu sou desenvolvedor e engenheiro de software Jr. Atualmente trabalho com desenvolvimento fullstack na Alfama Web. Faço graduação em Análise e Desenvolvimento de Sistemas na UNOPAR e venho aprimorando meus conhecimentos na área de Software desde 2019. Também faço pesquisa no PICT/EAD da Kroton sobre o tema A formação do aluno de graduação no sistema de ensino EaD, orientado pelos Prof. Dr Diego Fogaça e pela Profa. Dra. Fátima Dias.
+Tenho muita facilidade em aprender e me comunicar, mesmo conhecendo pouco um indivíduo. Tenho experiência no mercado de Tecnologia como desenvolvedor de sistemas, além de estar, atualmente, contribuindo na melhoria dos processos no time de atendimento da Alfama Web. Hoje também faço parte do time de produção como desenvolvedor fullstack utilizando WordPress, PHP, MySQL, HTML e CSS.
 
-Tenho muito conhecimento (consolidado ainda mais na faculdade) em:
-* Metodologias Ágeis
-* Modelagem de Sistemas
-* Modelagem de bancos de dados relacionais
-* Desenvolvimento de Software em C/C++, Python, C#, Java e PHP
-* Desenvolvimento Web Backend com ASP.net Core, NodeJs / Express, MySQL, SQL Server, desenvolvimento e consumo de APIs.
-* Desenvolvimento Frontend com VueJs, ReactJs, HTML, CSS, JavaScript, JQuery e Bootstrap
+Tenho experiência com: documentação de sistemas e produtos digitais, análise de custo de tempo e demanda de um produto, desenvolvimento de sistemas e sites com PHP, MySQL, JavaScript, NodeJs, React, C#/ASP.net & Vuejs.
 
-Estou estudando no momento:
-* Docker
+Conhecimentos em testes unitários com QUnit, PHPUnit e conhecimentos básicos de Cypress para testes.
+
+Tenho muita curiosidade para aprender coisas novas, o que me leva a estudar várias coisas o máximo que posso.
+
+Conhecimento em metodologias e gestão ágil (principalmente com Scrum e XP).
+Experiência com negociações e contato direto com o cliente para tratar sobre projetos, organizar cronogramas, contribuir com a tomada de decisões nos projetos.
+
+No campo da análise de sistemas, foco principalmente em entender as necessidades do cliente e transcrevê-las para o mundo digital, entendendo o que é possível e o que não é.
+Experiência com Scrum e ciclos de Sprints.
+
+Experiência com Jira, Kanban, produtos digitais, metodologias ágeis (Scrum e XP) e desenvolvimento de sistemas e sites.
