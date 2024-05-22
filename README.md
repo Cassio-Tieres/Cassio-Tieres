@@ -2,9 +2,11 @@
 
 Tenho muita facilidade em aprender e me comunicar, mesmo conhecendo pouco um indivíduo. Tenho experiência no mercado de Tecnologia como desenvolvedor de sistemas, além de estar, atualmente, contribuindo na melhoria dos processos no time de atendimento da Alfama Web. Hoje também faço parte do time de produção como desenvolvedor fullstack utilizando WordPress, PHP, MySQL, HTML e CSS.
 
-Tenho experiência com: documentação de sistemas e produtos digitais, análise de custo de tempo e demanda de um produto, desenvolvimento de sistemas e sites com PHP, MySQL, JavaScript, NodeJs, React, C#/ASP.net & Vuejs.
+Atualmente venho me desenvolvendo cada dia mais no campo acadêmico e no campo de ados, principalmente na análise exploratória de dados, bem como no desenvolvimento de modelos de ML.
 
-Conhecimentos em testes unitários com QUnit, PHPUnit e conhecimentos básicos de Cypress para testes.
+Tenho muito conhecimento em Python, SQL, visualização de dados (Power BI e/ou Looker), Excel e em estatística.
+
+Tenho experiência com: documentação de sistemas e produtos digitais, análise de custo de tempo e demanda de um produto, desenvolvimento de sistemas e sites com PHP, MySQL, JavaScript, NodeJs, React, C#/ASP.net & Vuejs.
 
 Tenho muita curiosidade para aprender coisas novas, o que me leva a estudar várias coisas o máximo que posso.
 
