@@ -27,6 +27,7 @@ Currently, I've been working with:
 
 ##
 You can find me on:
+
 <a href="https://www.linkedin.com/in/c%C3%A1ssio-tieres-bomfim-99573a179/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
