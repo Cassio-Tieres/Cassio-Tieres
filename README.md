@@ -6,7 +6,7 @@ Here I put all my codes, and you can see everything about my work.
 
 Currently, I've been working with:
 <a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=c%23&sort=">
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white]
 </a>
 <a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=python&sort=">
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
