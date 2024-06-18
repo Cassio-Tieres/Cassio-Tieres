@@ -1,19 +1,25 @@
-### Olá 🕷️
+### Welcome 🕷️
 
-Tenho muita facilidade em aprender e me comunicar, mesmo conhecendo pouco um indivíduo. Tenho experiência no mercado de Tecnologia como desenvolvedor de sistemas, além de estar, atualmente, contribuindo na melhoria dos processos no time de atendimento da Alfama Web. Hoje também faço parte do time de produção como desenvolvedor fullstack utilizando WordPress, PHP, MySQL, HTML e CSS.
+Hello World. My name's Cássio, I'm 23 years old, and I'm a software engineer from Brazil.
 
-Atualmente venho me desenvolvendo cada dia mais no campo acadêmico e no campo de ados, principalmente na análise exploratória de dados, bem como no desenvolvimento de modelos de ML.
+Here I put all my codes, and you can see everything about my work.
 
-Tenho muito conhecimento em Python, SQL, visualização de dados (Power BI e/ou Looker), Excel e em estatística.
+Currently, I've been working with:
+<a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=c%23&sort=">
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+</a>
+<a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=python&sort=">
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+</a>
+<a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=javascript&sort=">
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+</a>
+<a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=php&sort=">
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+</a>
+<a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=vue&sort=">
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+</a>
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 
-Tenho experiência com: documentação de sistemas e produtos digitais, análise de custo de tempo e demanda de um produto, desenvolvimento de sistemas e sites com PHP, MySQL, JavaScript, NodeJs, React, C#/ASP.net & Vuejs.
-
-Tenho muita curiosidade para aprender coisas novas, o que me leva a estudar várias coisas o máximo que posso.
-
-Conhecimento em metodologias e gestão ágil (principalmente com Scrum e XP).
-Experiência com negociações e contato direto com o cliente para tratar sobre projetos, organizar cronogramas, contribuir com a tomada de decisões nos projetos.
-
-No campo da análise de sistemas, foco principalmente em entender as necessidades do cliente e transcrevê-las para o mundo digital, entendendo o que é possível e o que não é.
-Experiência com Scrum e ciclos de Sprints.
-
-Experiência com Jira, Kanban, produtos digitais, metodologias ágeis (Scrum e XP) e desenvolvimento de sistemas e sites.
