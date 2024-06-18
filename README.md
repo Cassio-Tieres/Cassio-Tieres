@@ -4,6 +4,8 @@ Hello World. My name's Cássio, I'm 23 years old, and I'm a software engineer fr
 
 Here I put all my codes, and you can see everything about my work.
 
+##
+
 Currently, I've been working with:
 
 <a href="https://github.com/Cassio-Tieres?tab=repositories&q=&type=&language=c%23&sort=">
@@ -23,3 +25,8 @@ Currently, I've been working with:
 </a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 
+##
+You can find me on:
+<a href="https://www.linkedin.com/in/c%C3%A1ssio-tieres-bomfim-99573a179/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
