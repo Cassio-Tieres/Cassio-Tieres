@@ -1,6 +1,6 @@
 ### Welcome 🕷️
 
-Hello World. My name's Cássio, I'm 23 years old, and I'm a software engineer from Brazil.
+Hello World. My name's Cássio, I'm 23 years old, and I'm a Data Analyst from Brazil.
 
 Here I put all my codes, and you can see everything about my work.
 
