@@ -25,7 +25,7 @@ Currently, I've been working with:
 </a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>-->
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,vue,terraform,docker,linux,c,cpp&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,vue,terraform,docker,linux&perline=11)](https://skillicons.dev)
 
 ##
 You can find me on:
