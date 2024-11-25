@@ -8,7 +8,7 @@ Here I put all my codes, and you can see everything about my work.
 
 Currently, I've been working with:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow,terraform&perline=11)](https://skillicons.dev)
 
 ##
 You can find me on:
