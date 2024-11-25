@@ -1,6 +1,6 @@
 ### Welcome 🕷️
 
-Hello World. My name's Cássio, I'm 23 years old and I'm a Data Scientist in Brazil.
+Hello World. My name's Cássio, I'm 23 years old and I'm a DevOps Engineer in Brazil.
 
 Here I put all my codes, and you can see everything about my work.
 
@@ -22,7 +22,7 @@ me = {
     "name": "Cássio Bomfim",
     "country": "Brazil",
     "city": "Aracaju/SE",
-    "occupation": "Data Scientist",
+    "occupation": "DevOps",
     "urls": {
         "linkedin": "https://www.linkedin.com/in/cassio-tieres-bomfim/",
         "github": "https://github.com/Cassio-Tieres"
