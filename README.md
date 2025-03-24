@@ -8,7 +8,7 @@ Here I put all my codes, and you can see everything about my work.
 
 Currently, I've been working with:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow,terraform,mongodb,gcp&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow,terraform,mongodb,gcp,redis&perline=11)](https://skillicons.dev)
 
 ##
 You can find me on:
@@ -22,7 +22,7 @@ me = {
     "name": "Cássio Bomfim",
     "country": "Brazil",
     "city": "Aracaju/SE",
-    "occupation": "DevOps",
+    "occupation": "Data Engineer",
     "urls": {
         "linkedin": "https://www.linkedin.com/in/cassio-tieres-bomfim/",
         "github": "https://github.com/Cassio-Tieres"
@@ -34,6 +34,6 @@ me = {
     "technologies": [
         'Scikit-learn', 'Pandas', 'Selenium', 'OS', 'Numpy',
         'Tensorflow', 'GCP', 'AWS', 'SQL', 'Looker & Power BI',
-        'MAKE'
+        'MAKE', 'MongoDB', 'Redis'
     ]
 }
