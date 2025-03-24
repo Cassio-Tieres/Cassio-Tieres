@@ -1,6 +1,6 @@
 ### Welcome 🕷️
 
-Hello World. My name's Cássio, I'm 23 years old and I'm a AI Researcher Engineer in Brazil.
+Hello World. My name's Cássio, I'm 23 years old and I'm a Data Engineer in Brazil.
 
 Here I put all my codes, and you can see everything about my work.
 
@@ -8,7 +8,7 @@ Here I put all my codes, and you can see everything about my work.
 
 Currently, I've been working with:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,python,docker,linux,tensorflow,terraform,mongodb,gcp&perline=11)](https://skillicons.dev)
 
 ##
 You can find me on:
