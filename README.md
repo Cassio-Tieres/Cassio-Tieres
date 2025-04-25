@@ -1,6 +1,6 @@
 ### Welcome 🕷️
 
-Hello World. My name's Cássio, I'm 24 years old and I'm a Data Engineer in Brazil.
+Hello World. My name's Cássio, I'm 24 years old and I'm a AI Engineer in Brazil.
 
 Here I put all my codes, and you can see everything about my work.
 
